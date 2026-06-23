@@ -22,4 +22,4 @@ Analyze and visualize sentiment patterns in social media data to understand publ
 Performed sentiment analysis on social media data and visualized sentiment patterns to understand public opinions.
 
 ### Author
-<b>Harshal Lichade</b>: <a href="https://www.linkedin.com/in/harshal-lichade-507885334/"> (Linkdin) </a> </li>
+<b>Harshal Lichade</b>: <a href="https://www.linkedin.com/in/harshal-lichade-507885334/"> (LinkedIn) </a> </li>
