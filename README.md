@@ -6,7 +6,7 @@
 Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
 
 ### Dataset
-<a href=""> Twitter Training Dataset </a>
+<a href="https://github.com/Harshallichade21/Prodigy_Infotech_DS_Task_4/blob/main/twitter_training.csv"> Twitter Training Dataset </a>
 
 ### Tools Used
 - Python
